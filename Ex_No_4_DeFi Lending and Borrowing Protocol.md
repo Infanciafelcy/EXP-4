@@ -1,4 +1,6 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
+## Name: Infancia Felcy P
+## Reg: 212223040067
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
